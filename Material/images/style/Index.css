@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding:  0%;
+}
+header{
+width: 100%;
+padding: 10px 0px;
+background-color:rgb(152, 123, 93) ;
+color: rgb(245, 242, 238);
+}
+header h3, header p{
+margin: 0px 20px;
+}
+main{
+width: 90%;
+padding: 10px;
+background-color: white;
+border-radius: 5px;
+margin: 10px auto;
+height: 500px;
+}
+#VantagemCafé{
+    width: 80%;
+    float: left;
+}
+
+#VantagemCafé img{
+    width: 500px;
+    border: 100px;
+}
+
+
+
+
+
